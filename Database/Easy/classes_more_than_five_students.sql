@@ -1,8 +1,7 @@
 SELECT T.class
-FROM (
-  SELECT class, 
-         COUNT(student)
-  FROM Courses
-  GROUP BY class
-) T
+FROM
+  (SELECT CLASS,
+          COUNT(student)
+   FROM Courses
+   GROUP BY CLASS) T
 WHERE T.count >= 5;
