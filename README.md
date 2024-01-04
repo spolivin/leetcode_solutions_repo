@@ -2,6 +2,14 @@
 
 This repository contains my solutions of different coding problems from LeetCode.
 
+## Algorithms
+
+### Easy
+
+| Problem Number | Problem | Solution link | 
+| :---------------------- | :---------------------- | :---------------------- | 
+| **#1** | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](Algorithms/Easy/two_sum.py) |
+
 ## Database
 
 ### Easy
