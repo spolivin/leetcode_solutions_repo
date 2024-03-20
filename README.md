@@ -9,6 +9,11 @@ This repository contains my solutions of different coding problems from LeetCode
 | Problem Number | Problem | Solution link | 
 | :---------------------- | :---------------------- | :---------------------- | 
 | **#1** | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](Algorithms/Easy/two_sum.py) |
+| **#26** | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](Algorithms/Easy/remove_duplicates_sorted.py) |
+| **#27** | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](Algorithms/Easy/remove_element.py) |
+| **#88** | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python3](Algorithms/Easy/merge_sorted.py) |
+| **#169** | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](Algorithms/Easy/majority_element.py) |
+
 
 ## Database
 
@@ -24,8 +29,14 @@ This repository contains my solutions of different coding problems from LeetCode
 | **#584** | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [PostgreSQL](Database/Easy/find_customer_referee.sql) |
 | **#595** | [Big Countries](https://leetcode.com/problems/big-countries/) | [PostgreSQL](Database/Easy/big_countries.sql) |
 | **#596** | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [PostgreSQL](Database/Easy/classes_more_than_five_students.sql) |
+| **#1068** | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [PostgreSQL](Database/Easy/product_sales_analysis_1.sql) |
+| **#1148** | [Article Views I](https://leetcode.com/problems/article-views-i/description/) | [PostgreSQL](Database/Easy/article_views_1.sql) |
 | **#1327** | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [PostgreSQL](Database/Easy/list_products_ordered_period.sql) |
+| **#1378** | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/) | [PostgreSQL](Database/Easy/replace_employee_id.sql) |
 | **#1407** | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [PostgreSQL](Database/Easy/top_travellers.sql) |
+| **#1581** | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [PostgreSQL](Database/Easy/customer_no_transactions.sql) |
+| **#1683** | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | [PostgreSQL](Database/Easy/invalid_tweets.sql) |
+| **#1757** | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [PostgreSQL](Database/Easy/rec_and_low.sql) |
 
 ### Medium
 
