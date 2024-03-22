@@ -6,7 +6,6 @@ public:
             int k = target - nums[i];
             if (d.contains(k)) {
                 return {d[k], i};
-                break;
             }
             d[nums[i]] = i;
         }
