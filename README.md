@@ -9,10 +9,10 @@ This repository contains my solutions of different coding problems from LeetCode
 | Problem Number | Problem | Solution link | 
 | :---------------------- | :---------------------- | :---------------------- | 
 | **#1** | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](Algorithms/Easy/two_sum.py) |
-| **#26** | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](Algorithms/Easy/remove_duplicates_sorted.py) |
-| **#27** | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](Algorithms/Easy/remove_element.py) |
-| **#88** | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python3](Algorithms/Easy/merge_sorted.py) |
-| **#169** | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](Algorithms/Easy/majority_element.py) |
+| **#26** | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](Algorithms/Easy/remove_duplicates_sorted.py) <br> [C++](Algorithms/Easy/remove_duplicates_sorted.cpp)|
+| **#27** | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](Algorithms/Easy/remove_element.py) <br> [C++](Algorithms/Easy/remove_element.cpp)|
+| **#88** | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python3](Algorithms/Easy/merge_sorted.py) <br> [C++](Algorithms/Easy/merge_sorted.cpp)|
+| **#169** | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](Algorithms/Easy/majority_element.py) <br> [C++](Algorithms/Easy/majority_element.cpp)|
 
 
 ## Database
