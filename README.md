@@ -13,6 +13,7 @@ This repository contains my solutions of different coding problems from LeetCode
 | **#27** | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](Algorithms/Easy/remove_element.py) <br> [C++](Algorithms/Easy/remove_element.cpp) |
 | **#88** | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python3](Algorithms/Easy/merge_sorted.py) <br> [C++](Algorithms/Easy/merge_sorted.cpp) |
 | **#169** | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](Algorithms/Easy/majority_element.py) <br> [C++](Algorithms/Easy/majority_element.cpp) |
+| **#1480** | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python3](Algorithms/Easy/running_sum_1d.py) <br> [C++](Algorithms/Easy/running_sum_1d.cpp) |
 
 
 ## Database
