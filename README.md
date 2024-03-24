@@ -15,6 +15,12 @@ This repository contains my solutions of different coding problems from LeetCode
 | **#169** | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](Algorithms/Easy/majority_element.py) <br> [C++](Algorithms/Easy/majority_element.cpp) |
 | **#1480** | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python3](Algorithms/Easy/running_sum_1d.py) <br> [C++](Algorithms/Easy/running_sum_1d.cpp) |
 
+### Medium
+
+| Problem Number | Problem | Solution link | 
+| :---------------------- | :---------------------- | :---------------------- |
+| **#189** | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Python3](Algorithms/Medium/rotate_array.py) <br> [C++](Algorithms/Medium/rotate_array.cpp) |
+
 
 ## Database
 
