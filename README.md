@@ -19,6 +19,7 @@ This repository contains my solutions of different coding problems from LeetCode
 
 | Problem Number | Problem | Solution link | 
 | :---------------------- | :---------------------- | :---------------------- |
+| **#167** | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C++](Algorithms/Medium/two_sum_2.cpp) |
 | **#189** | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Python3](Algorithms/Medium/rotate_array.py) <br> [C++](Algorithms/Medium/rotate_array.cpp) |
 
 
@@ -50,3 +51,5 @@ This repository contains my solutions of different coding problems from LeetCode
 | Problem Number | Problem | Solution link | 
 | :---------------------- | :---------------------- | :---------------------- | 
 | **#178** | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [PostgreSQL](Database/Medium/rank_scores.sql) |
+| **#1070** | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/) | [PostgreSQL](Database/Medium/product_sales_analysis_3.sql) |
+| **#1193** | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/) | [PostgreSQL](Database/Medium/monthly_transactions_1.sql) |
