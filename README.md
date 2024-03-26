@@ -12,6 +12,8 @@ This repository contains my solutions of different coding problems from LeetCode
 | **#26** | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](Algorithms/Easy/remove_duplicates_sorted.py) <br> [C++](Algorithms/Easy/remove_duplicates_sorted.cpp) |
 | **#27** | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](Algorithms/Easy/remove_element.py) <br> [C++](Algorithms/Easy/remove_element.cpp) |
 | **#88** | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python3](Algorithms/Easy/merge_sorted.py) <br> [C++](Algorithms/Easy/merge_sorted.cpp) |
+| **#121** | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](Algorithms/Easy/best_time_stock.cpp) |
+| **#125** | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Python3](Algorithms/Easy/valid_palindrome.py) |
 | **#169** | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](Algorithms/Easy/majority_element.py) <br> [C++](Algorithms/Easy/majority_element.cpp) |
 | **#1480** | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python3](Algorithms/Easy/running_sum_1d.py) <br> [C++](Algorithms/Easy/running_sum_1d.cpp) |
 
@@ -51,5 +53,7 @@ This repository contains my solutions of different coding problems from LeetCode
 | Problem Number | Problem | Solution link | 
 | :---------------------- | :---------------------- | :---------------------- | 
 | **#178** | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [PostgreSQL](Database/Medium/rank_scores.sql) |
+| **#570** | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/) | [PostgreSQL](Database/Medium/managers_5_direct_reports.sql) |
 | **#1070** | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/) | [PostgreSQL](Database/Medium/product_sales_analysis_3.sql) |
 | **#1193** | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/) | [PostgreSQL](Database/Medium/monthly_transactions_1.sql) |
+| **#1934** | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/) | [PostgreSQL](Database/Medium/confirmation_rate.sql) |
