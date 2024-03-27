@@ -41,10 +41,12 @@ This repository contains my solutions of different coding problems from LeetCode
 | **#596** | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [PostgreSQL](Database/Easy/classes_more_than_five_students.sql) |
 | **#1068** | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [PostgreSQL](Database/Easy/product_sales_analysis_1.sql) |
 | **#1148** | [Article Views I](https://leetcode.com/problems/article-views-i/description/) | [PostgreSQL](Database/Easy/article_views_1.sql) |
+| **#1280** | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) | [PostgreSQL](Database/Easy/students_examinations.sql) |
 | **#1327** | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [PostgreSQL](Database/Easy/list_products_ordered_period.sql) |
 | **#1378** | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/) | [PostgreSQL](Database/Easy/replace_employee_id.sql) |
 | **#1407** | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [PostgreSQL](Database/Easy/top_travellers.sql) |
 | **#1581** | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [PostgreSQL](Database/Easy/customer_no_transactions.sql) |
+| **#1661** | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/) | [PostgreSQL](Database/Easy/avg_time_process.sql) |
 | **#1683** | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | [PostgreSQL](Database/Easy/invalid_tweets.sql) |
 | **#1757** | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [PostgreSQL](Database/Easy/rec_and_low.sql) |
 
